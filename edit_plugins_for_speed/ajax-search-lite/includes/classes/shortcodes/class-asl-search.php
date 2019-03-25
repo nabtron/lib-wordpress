@@ -1,4 +1,7 @@
 <?php
+
+// file: ajax-search-lite/includes/classes/shortcodes/class-asl-search.php
+	
 if (!defined('ABSPATH')) die('-1');
 
 if (!class_exists("WD_ASL_Search_Shortcode")) {
