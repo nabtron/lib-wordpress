@@ -1,5 +1,6 @@
 <?php
-// this is the only code required, yes only.
+// this is the only code required, yes only
+// works with wordpress 5.1.1, tested on 1st April 2019
 wp_enqueue_script('jquery');
 wp_enqueue_media();
 ?>
