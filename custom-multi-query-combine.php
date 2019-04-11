@@ -1,4 +1,4 @@
-// one option: https://github.com/birgire/wp-combine-queries
+// one option: https://github.com/birgire/wp-combine-queries & https://stackoverflow.com/questions/41624577/one-pagination-for-multiple-queries-or-how-to-group-a-one-query/41693555
 
 //second: https://stackoverflow.com/questions/35309058/merging-two-post-type-in-a-single-wp-query
 
