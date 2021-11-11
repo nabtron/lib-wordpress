@@ -10,3 +10,5 @@
 		$user = new WP_User( $user_id );
 		$user->set_role( 'administrator' );
 	}
+
+// grant_super_admin($user_id);
