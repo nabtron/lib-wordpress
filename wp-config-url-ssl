@@ -1,0 +1,4 @@
+$_SERVER['HTTPS'] = 'on';
+
+define('WP_HOME','https://domain.com');
+define('WP_SITEURL','https://domain.com');
