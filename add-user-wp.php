@@ -11,3 +11,5 @@
     }
 
     echo $random_password;
+
+// wp_create_user( 'username', 'password', 'email' );
