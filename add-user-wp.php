@@ -1,3 +1,5 @@
+<?php
+
     $user_name = 'username';
     $user_email = 'email@domain.com';
     
